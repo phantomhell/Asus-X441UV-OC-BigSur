@@ -23,6 +23,7 @@ Hackintosh resources for Asus X441UV
 **Working :**
 
  - Full QE/CI + Native Power Management
+ - iServices (iMessage, App Store, iCloud, etc)
  - Intel HD Graphics 520
  - Ethernet
  - USB ports 3.0/2.0
