@@ -1,4 +1,4 @@
-# Asus-X441UV-OpenCore
+# Asus-X441UV-OC-BigSur
  
 Hackintosh resources for Asus X441UV
 
